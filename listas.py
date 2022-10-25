@@ -13,4 +13,5 @@ for i in lista:
 
 print(1 in lista)
 print("chau" in lista)
+
 print("-- fin listas --")

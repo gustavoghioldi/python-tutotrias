@@ -8,3 +8,9 @@ for i in tupla:
 print(tupla[0])    
 a, b, c, d, e, f = tupla # pasa los valores de la tupla a variables individuales
 print(c)
+
+print(tupla[-2]) # me trae el pen ultimo
+
+print(tupla[1:4])
+print(tupla[1:])
+print(tupla[:4])
