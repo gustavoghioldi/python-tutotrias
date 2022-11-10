@@ -9,3 +9,5 @@ cursor.execute('INSERT INTO people VALUES ("pedro" , 12, 23232323)')
 cursor.execute('INSERT INTO people VALUES ("coco" , 12, 23232323)')
 cursor.execute('INSERT INTO people VALUES ("papa" , 12, 23232323)')
 conn.commit()
+conn.close()
+
